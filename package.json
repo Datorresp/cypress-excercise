@@ -1,0 +1,25 @@
+{
+  "name": "cypress-excercise",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datorresp/cypress-excercise.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Diego Andres Torres [diegot145@hotmail.com] (Datorresp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Datorresp/cypress-excercise/issues"
+  },
+  "homepage": "https://github.com/Datorresp/cypress-excercise#readme"
+}
